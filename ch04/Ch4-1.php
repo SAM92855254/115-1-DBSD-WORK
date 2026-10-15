@@ -1,5 +1,5 @@
-# SID: C113181116<br/>
-# Name: zhiyuan <br/>
+# SID: C113181138<br/>
+# Name: 蔡佑新 <br/>
 EX01<Hr/>
 <?php
     echo "PHP與MySQL網頁設計<br/>";
